@@ -20,7 +20,36 @@
 	border: 1px solid blue;
 }
 
-#sec1Head{
+.main-section{
+    /* border:1px solid black ; */
+    width: 80%;
+    float: right;
+}
+
+h2{
+    font-family: sans-serif;
+    font-size: xx-large;
+    font-weight: normal;
+}
+
+.haeder-section{
+    padding-left: 30px;
+}
+
+p{
+    font-family:sans-serif;
+}
+
+li{
+    font-family:sans-serif;
+    padding-top: 15px;
+}
+
+.div-p{
+    padding-left: 40px;
+}
+
+/* #sec1Head{
 	border: 1px solid black;
 }
 
@@ -60,22 +89,18 @@
 	border: 1px solid red;
 }
 
-.main-section{
-    border:1px solid black ;
-    width: 80%;
-    float: right;
-}
 #sec4Head{
     border:1px solid red ;
 }
 .Hello-p{
     border: 1px solid black;
-}
+} */
 .Hello-C-div{
-    border: 1px solid gray;
-}
+    border: 1px solid rgba(209, 202, 202, 0.986);
+    background-color: rgba(209, 202, 202, 0.986);
+    padding: 15px;}
 
-#sec5Head{
+/* #sec5Head{
     border:1px solid red ;
 }
 .variables-p{
@@ -87,17 +112,19 @@
 }
 .declaring-p{
     border: 1px solid black;
-}
+} */
 .declaring-c-div{
-    border: 1px solid gray;
-}
+    border: 1px solid rgba(209, 202, 202, 0.986);
+    background-color: rgba(209, 202, 202, 0.986);
+    padding: 15px;}
 
-#sec7Head{
+/* #sec7Head{
     border:1px solid red ;
 }
 .scope-p{
     border: 1px solid black;
-}
+} */
 .scope-c-div{
-    border: 1px solid gray;
-}
+    border: 1px solid rgba(209, 202, 202, 0.986);
+    background-color: rgba(209, 202, 202, 0.986);
+    padding: 15px;}
