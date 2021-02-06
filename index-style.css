@@ -1,0 +1,55 @@
+#navbar{
+	border: 1px solid blue;
+}
+
+#nav-header{
+	border: 1px solid black;
+}
+
+#nav-link-div{
+	border: 1px solid red;
+}
+
+.inside-link-div{
+	border: 1px solid blue;
+}
+
+#sec1Head{
+	border: 1px solid black;
+}
+
+.intro-P{
+	border: 1px solid red;
+}
+
+#intro-ul{
+	border: 1px solid blue;
+}
+
+.intro-li{
+	border: 1px solid red;
+}
+
+#sec2Head{
+	border: 1px solid blue;
+}
+
+.already-p{
+	border: 1px solid black;
+}
+
+#already-ul{
+	border: 1px solid red;
+}
+
+.already-li{
+	border: 1px solid blue;
+}
+
+#sec3Head{
+	border: 1px solid blue;
+}
+
+.js-java-p{
+	border: 1px solid red;
+}
