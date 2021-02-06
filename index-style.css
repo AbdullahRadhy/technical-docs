@@ -1,0 +1,39 @@
+.main-section{
+    border:1px solid black ;
+}
+#sec4Head{
+    border:1px solid red ;
+}
+.Hello-p{
+    border: 1px solid black;
+}
+.Hello-C-div{
+    border: 1px solid gray;
+}
+
+#sec5Head{
+    border:1px solid red ;
+}
+.variables-p{
+    border: 1px solid black;
+}
+
+#sec6Head{
+    border:1px solid red ;
+}
+.declaring-p{
+    border: 1px solid black;
+}
+.declaring-c-div{
+    border: 1px solid gray;
+}
+
+#sec7Head{
+    border:1px solid red ;
+}
+.scope-p{
+    border: 1px solid black;
+}
+.scope-c-div{
+    border: 1px solid gray;
+}
