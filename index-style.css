@@ -146,7 +146,7 @@ li{
 @media only screen and (max-width: 768px) {
 
 #navbar{
-    border: 1px solid blue;  
+   /* border: 1px solid blue; */ 
     position: sticky;
     top: 0;
     width: 100%;
@@ -154,8 +154,7 @@ li{
     margin: 0;
     display: flex;
     flex-direction: column;
-    overflow: scroll;
-    scroll-behavior: smooth;
+    
     background-color: lightgray;
     border-right:1px solid black ;
     border-bottom:1px solid black ;
@@ -163,7 +162,7 @@ li{
 
 
 #nav-header{
-     border: 1px solid black; 
+    /* border: 1px solid black; */
      margin: 1px;
      text-align: center;
 }
@@ -174,6 +173,25 @@ li{
     color: black;
 }
 
+#nav-link-ul{
+ /*   border: 1px solid red; */
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    overflow: scroll;
+    scroll-behavior: smooth;
+}
+
+.nav-link{
+    /*border: 1px solid red; */
+    display: block;
+    color: black;
+    padding: 8px 0px 8px 16px;
+    text-decoration: none;
+    margin-top: -5px;
+    margin-bottom: 5px;
+}
 
 
 
