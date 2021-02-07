@@ -193,16 +193,31 @@ li{
     margin-bottom: 5px;
 }
 
-
-
-
-
-
-
+.main-section{
+    /* border:1px solid black ; */
+    width: 100%;
+    float: right;
+    margin: 5px 5px 15px 5px;
 
 }
 
-@media only screen and (max-width:320px){
+.haeder-section{
+    padding-left: 10px;
+}
 
+p{
+    font-family:sans-serif;
+    font-size: 15px;
 
+}
+
+li{
+    font-family:sans-serif;
+    padding-top: 15px;
+}
+
+.div-p{
+
+    padding-left: 40px;
+}
 }
