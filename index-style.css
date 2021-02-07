@@ -1,25 +1,40 @@
 #navbar{
-    border: 1px solid blue;
+    border: 1px solid black;
     display: block;
-    position: sticky;
+    position: fixed;
     top: 0;
     left: 0;
     width: 19%;
+    height: 100%;
     float: left;
 }
 
 #nav-header{
 	border: 1px solid black;
+    height: 100px;
 }
 
 #nav-link-div{
-	border: 1px solid red;
+	/*border: 1px solid black;*/
+    height: 100%;
 }
 
 .inside-link-div{
-	border: 1px solid blue;
+	border: 1px solid black;
+    width: relative;
+    height: 90px;
+    padding-top: 20px;
 }
 
+.nav-link{
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    color: gray;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
 .main-section{
     /* border:1px solid black ; */
     width: 80%;
