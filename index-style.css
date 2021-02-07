@@ -1,7 +1,6 @@
 #navbar{
-    /* border: 1px solid blue; */
     position: fixed;
-    width: 19%;
+    width: 24%;
     float: left;
     border-right:1px solid black ;
     border-bottom:1px solid black ;
@@ -9,19 +8,12 @@
     
     
 }
-
-#nav-header{
-	/* border: 1px solid black; */
-}
-
 #nav-header-p{
     font-family: sans-serif;
     font-size: 1.8rem;
-
 }
 
 #nav-link-ul{
-      /* border: 1px solid red; */
       list-style: none;
       margin: 0px;
       padding: 0px;
@@ -37,7 +29,6 @@
 }
 
 .nav-link{
-     /* border: 1px solid red; */
     display: block;
     color: black;
     padding: 8px 0px 8px 16px;
@@ -46,8 +37,7 @@
     margin-bottom: 24px;
 }
 .main-section{
-    /* border:1px solid black ; */
-    width: 80%;
+    width: 75%;
     float: right;
     margin-bottom: 10px; 
 }
@@ -75,91 +65,29 @@ li{
     padding-left: 40px;
 }
 
-/* #sec1Head{
-	border: 1px solid black;
-}
 
-.intro-P{
-	border: 1px solid red;
-}
-
-#intro-ul{
-	border: 1px solid blue;
-}
-
-.intro-li{
-	border: 1px solid red;
-}
-
-#sec2Head{
-	border: 1px solid blue;
-}
-
-.already-p{
-	border: 1px solid black;
-}
-
-#already-ul{
-	border: 1px solid red;
-}
-
-.already-li{
-	border: 1px solid blue;
-}
-
-#sec3Head{
-	border: 1px solid blue;
-}
-
-.js-java-p{
-	border: 1px solid red;
-}
-
-#sec4Head{
-    border:1px solid red ;
-}
-.Hello-p{
-    border: 1px solid black;
-} */
 .Hello-C-div{
     border: 1px solid rgba(209, 202, 202, 0.986);
     background-color: rgba(209, 202, 202, 0.986);
     padding: 15px;}
 
-/* #sec5Head{
-    border:1px solid red ;
-}
-.variables-p{
-    border: 1px solid black;
-}
-
-#sec6Head{
-    border:1px solid red ;
-}
-.declaring-p{
-    border: 1px solid black;
-} */
 .declaring-c-div{
     border: 1px solid rgba(209, 202, 202, 0.986);
     background-color: rgba(209, 202, 202, 0.986);
-    padding: 15px;}
-
-/* #sec7Head{
-    border:1px solid red ;
+    padding: 15px;
 }
-.scope-p{
-    border: 1px solid black;
-} */
+
 .scope-c-div{
     border: 1px solid rgba(209, 202, 202, 0.986);
     background-color: rgba(209, 202, 202, 0.986);
-    padding: 15px;}
+    padding: 15px;
+}
 
 
 @media only screen and (max-width: 768px) {
 
 #navbar{
-   /* border: 1px solid blue; */ 
+
     position: sticky;
     top: 0;
     width: 100%;
@@ -175,7 +103,6 @@ li{
 
 
 #nav-header{
-    /* border: 1px solid black; */
      margin: 1px;
      text-align: center;
 }
@@ -187,7 +114,6 @@ li{
 }
 
 #nav-link-ul{
- /*   border: 1px solid red; */
     list-style: none;
     margin: 0px;
     padding: 0px;
@@ -197,7 +123,6 @@ li{
 }
 
 .nav-link{
-    /*border: 1px solid red; */
     display: block;
     color: black;
     padding: 8px 0px 8px 16px;
@@ -207,7 +132,6 @@ li{
 }
 
 .main-section{
-    /* border:1px solid black ; */
     width: 100%;
     float: right;
     margin: 5px 5px 15px 5px;
@@ -234,4 +158,6 @@ li{
     padding-left: 40px;
 }
 }
+
+
 
